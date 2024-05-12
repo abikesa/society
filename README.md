@@ -28,8 +28,7 @@ He who speaks for the bore speaks for Britain
 1. Root: [Qualitative](https://www.youtube.com/watch?v=585IMBb14Kg) transformation of costs of production
 2. [Pentatonic](https://en.wikipedia.org/wiki/Seven_Samurai): railway, electricity, manufacturing, irrigation, subsistence 
 
-#
+# The progression of economies and societies
 
-In the evolution of nations' economies, securing low-cost financing is crucial as it can either facilitate or hinder transformational shifts in economic activities. Historically, societies in the Peasant stage may have resorted to raiding neighbors to secure labor, funding the leap to large-scale agriculture. This shift demanded energy sources like coal and eventually electricity on a significant scale, enabling production surplus for local consumption and export. The transition to the Manufacturer stage often involved incorporating farm products into industrial processes, requiring substantial financing for factories and machinery. The move towards manufacturing and industrialization facilitated a gradual shift from community-based economies to global interconnectedness, aided by low-cost transportation like buses, railways, and airplanes. However, challenges remain, as leaders like Museveni, who once critiqued overstaying in power as a problem, now face criticism for prolonging their own leadership, impacting their nation's economic challenges.
-
+Peasants represent the agrarian society's base, where the majority of people work in agriculture. Farmers are a step up, often owning or managing land for agricultural purposes. Manufacturers indicate a shift towards industrialization, where production moves beyond simple agriculture to include goods production. Energy is crucial for powering industrial processes and transportation, which becomes essential for moving goods and people efficiently. Together, these terms paint a picture of economic development, from agrarian to industrial, highlighting the evolution of labor, production, and infrastructure.
  
